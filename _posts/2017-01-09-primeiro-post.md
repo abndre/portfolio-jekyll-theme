@@ -5,12 +5,12 @@ title: "Primeiro Post"
 
 #### Guia Python Iniciante
 
-```py
+{% highlight python %}
 print 'name'
 
 variavel_name = 'name'
 
 print variavel_name
-```
+{% endhighlight %}
 
 Variaveis contendo nomes ou string.
