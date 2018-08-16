@@ -7,9 +7,7 @@ title: "Primeiro Post"
 
 {% highlight python %}
 print 'name'
-
 variavel_name = 'name'
-
 print variavel_name
 {% endhighlight %}
 
